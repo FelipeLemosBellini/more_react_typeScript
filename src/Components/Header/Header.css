@@ -1,0 +1,37 @@
+.header {
+  padding: 16px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.button-header {
+  font-size: 20px;
+  height: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  border: 0px;
+  background-color: white;
+  color: black;
+  margin: 16px;
+}
+
+.button-header-blue {
+  font-size: 20px;
+  height: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  border: 0px;
+  background-color: #608AF5;
+  color: white;
+  margin: 16px;
+}
+
+.name-header {
+  font-size: larger;
+  padding: 20px;
+  align-items: start;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

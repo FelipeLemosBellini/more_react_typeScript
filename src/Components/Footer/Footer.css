@@ -1,0 +1,13 @@
+.footer {
+    height: 100px;
+    background-color: #608AF5;
+    align-items: center;
+}
+
+.copy-right {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 36px;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+}

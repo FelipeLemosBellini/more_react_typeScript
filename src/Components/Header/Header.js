@@ -1,24 +1,13 @@
 import React from 'react';
-import './App.css';
+import "./Header.css";
+
 function HeaderWidget () {
-
-  const estilo = {
-    backgroundColor: 'white',
-  };
-
-  const estiloButton={
-    margin:'16px',
-    backgroundColor: 'blue',
-
-  };
-
   return (
     <div className='header'>
-      
         <text className='name-header'>
         Felipe Bellini
         </text>
-    
+        <div style={{width: '20%'}}></div>
    <div>
     <button className='button-header'>
         Sobre mim
